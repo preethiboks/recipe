@@ -1,6 +1,9 @@
 # Here's my favorite recipe by Meera Sodha as published in the Guardian. 
 # Source: https://www.theguardian.com/lifeandstyle/2018/apr/28/meera-sodha-recipe-vegan-miso-tofu-ramen-asparagus
 
+# Title
+# Vegan White Miso Ramen with Edamame and Asparagus 
+
 # Ingredients
 # For the noodles
 # 4 tbsp dried shiitake mushrooms
