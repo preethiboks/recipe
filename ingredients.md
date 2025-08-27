@@ -26,3 +26,4 @@ Rapeseed oil
 ½ tbsp fresh lemon juice
 280g extra-firm tofu, cut into 0.5cm-thick slices
 1 tbsp soy sauce
+pinch of brown sugar
