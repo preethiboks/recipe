@@ -1,3 +1,5 @@
+Enjoy my recipe! 
+
 # Most fav recipe's ingredients
 
 ## Ingredients
@@ -27,3 +29,5 @@ Rapeseed oil
 280g extra-firm tofu, cut into 0.5cm-thick slices
 1 tbsp soy sauce
 pinch of brown sugar
+
+Let's begin! 
