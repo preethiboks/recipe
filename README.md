@@ -1,3 +1,4 @@
+### This is a REMOTE change :O
 # Documentation and Support
 line 2 changed remotely
 The recipes are directly pulled from the internet as and when a recipe seems suitable. 
@@ -11,5 +12,6 @@ If you have any questions, please open an issue.
 =======
 Please email with questions! 
 Last line changed locally
+### This is a REMOTE change :O
 >>>>>>> 4a8ecb7 (Added instructions)
 
