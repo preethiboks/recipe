@@ -10,4 +10,6 @@ This GitHub repository is used for one thing and one thing only. Adding favorite
 If you have any questions, please open an issue. 
 =======
 Please email with questions! 
+Last line changed locally
 >>>>>>> 4a8ecb7 (Added instructions)
+
