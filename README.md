@@ -1,4 +1,4 @@
-### This is a REMOTE change :O
+### This is a Remote Change :O
 # Documentation and Support
 line 2 changed remotely
 The recipes are directly pulled from the internet as and when a recipe seems suitable. 
@@ -7,11 +7,7 @@ The recipes are directly pulled from the internet as and when a recipe seems sui
 
 This GitHub repository is used for one thing and one thing only. Adding favorite recipes. Bye
 
-<<<<<<< HEAD
-If you have any questions, please open an issue. 
-=======
-Please email with questions! 
 Last line changed locally
-### This is a REMOTE change :O
->>>>>>> 4a8ecb7 (Added instructions)
+### This is a Remote Change :O
+
 
