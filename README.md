@@ -1,4 +1,4 @@
-### This is a Remote Change :) 
+### This is a Local Change :) 
 
 # Documentation and Support
 line 2 changed remotely
@@ -10,4 +10,4 @@ This GitHub repository is used for one thing and one thing only. Adding favorite
 
 Last line changed locally
 
-### This is a Local Change :)
+### This is a Remote Change :O
