@@ -1,6 +1,6 @@
-### This is a Local Change :) 
+# This is a Local Change :) 
 
-# Documentation and Support
+### Documentation and Support
 line 2 changed remotely
 The recipes are directly pulled from the internet as and when a recipe seems suitable. 
 
@@ -12,4 +12,19 @@ Last line changed locally
 
 ### This is a Remote Change :O
 
-I mean that should have worked
+***I mean that should have worked***
+
+# Here is the ordered list
+
+1. This
+2. is
+3. ordered
+
+
+# Here is the unordered list
+
+- Unordered
+- List 
+
+# My recipe
+![My favorite recipe](recipe.png)
