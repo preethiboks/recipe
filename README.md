@@ -25,3 +25,6 @@ Last line changed locally
 
 - Unordered
 - List 
+
+# My recipe
+![My favorite recipe](recipe.png)
